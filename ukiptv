@@ -1,168 +1,98 @@
 
 #EXTM3U
-#EXTINF:-1,ITV 1
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/375.ts
-#EXTINF:-1,ITV 2
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/376.ts
-#EXTINF:-1,ITV 3
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/377.ts
-#EXTINF:-1,ITV 4
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/378.ts
-#EXTINF:-1,.UK = BBC 1
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/349.ts
-#EXTINF:-1,.UK = BBC 1 Xtra
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/350.ts
-#EXTINF:-1,.UK = BBC 2
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/351.ts
-#EXTINF:-1,.UK = BBC 3
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/352.ts
-#EXTINF:-1,.UK = BBC 4
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/353.ts
-#EXTINF:-1,.UK = BBC 6
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/354.ts
-#EXTINF:-1,Akaal Channel UK
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/359.ts
-#EXTINF:-1,UK: Star Plus
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/321.ts
-#EXTINF:-1,Sky Cinema Premiere HD.
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/390.ts
-#EXTINF:-1,Sky Cinema Premiere
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/389.ts
-#EXTINF:-1,Sky Cinema Modern Greats
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/388.ts
-#EXTINF:-1,Sky Cinema Hits..
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/387.ts
-#EXTM3U
-#EXTINF:-1,ITV 1
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/375.ts
-#EXTINF:-1,ITV 2
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/376.ts
-#EXTINF:-1,ITV 3
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/377.ts
-#EXTINF:-1,ITV 4
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/378.ts
-#EXTINF:-1,.UK = BBC 1
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/349.ts
-#EXTINF:-1,.UK = BBC 1 Xtra
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/350.ts
-#EXTINF:-1,.UK = BBC 2
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/351.ts
-#EXTINF:-1,.UK = BBC 3
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/352.ts
-#EXTINF:-1,.UK = BBC 4
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/353.ts
-#EXTINF:-1,.UK = BBC 6
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/354.ts
-#EXTINF:-1,Akaal Channel UK
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/359.ts
-#EXTINF:-1,UK: Star Plus
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/321.ts
-#EXTINF:-1,Sky Cinema Premiere HD.
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/390.ts
-#EXTINF:-1,Sky Cinema Premiere
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/389.ts
-#EXTINF:-1,Sky Cinema Modern Greats
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/388.ts
-#EXTINF:-1,Sky Cinema Hits..
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/387.ts
-#EXTINF:-1,Sky Cinema Family HD.
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/386.ts
-#EXTINF:-1,Sky Cinema Drama
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/385.ts
-#EXTINF:-1,Sky Cinema Disney.
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/384.ts
-#EXTINF:-1,Sky Cinema Crime & Thriller
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/383.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/382.ts
-#EXTINF:-1,Sky Cinema Action & Adventure
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/381.ts
-#EXTINF:-1,Sky Cinema 3D
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/380.ts
-#EXTINF:-1,Sky Atlantic
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/379.ts
-#EXTINF:-1,CBeebies HD
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/374.ts
-#EXTINF:-1,CBBC HD
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/373.ts
-#EXTINF:-1,BT Sport 1
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/369.ts
-#EXTINF:-1,BT Sport 2
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/370.ts
-#EXTINF:-1,BT Sport 3
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/371.ts
-#EXTINF:-1,BT Sport ESPN
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/372.ts
-#EXTINF:-1,BET Star
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/368.ts
-#EXTINF:-1,BBC One HD.
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/367.ts
-#EXTINF:-1,BBC News HD
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/366.ts
-#EXTINF:-1,BBC America
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/365.ts
-#EXTINF:-1,Baby Tv
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/364.ts
-#EXTINF:-1,Animal Planet
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/363.ts
-#EXTINF:-1,AMC
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/362.ts
-#EXTINF:-1,Alibi
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/361.ts
-#EXTINF:-1,5USA Plus 1
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/357.ts
-#EXTINF:-1,5Star Plus 1
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/356.ts
-#EXTINF:-1,5 USA Plus 1
-http://tv.nemeriptv.com:8000/live/JqEngNW5gF/hXlievKw84/355.ts
-#EXTINF:-1,Sky Cinema Family HD.
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/386.ts
-#EXTINF:-1,Sky Cinema Drama
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/385.ts
-#EXTINF:-1,Sky Cinema Disney.
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/384.t
-#EXTINF:-1,Sky Cinema Crime & Thriller
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/383.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/382.ts
-#EXTINF:-1,Sky Cinema Action & Adventure
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/381.t
-#EXTINF:-1,Sky Cinema 3D
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/380.ts
-#EXTINF:-1,Sky Atlanti
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/379.ts
-#EXTINF:-1,CBeebies HD
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/374.ts
-#EXTINF:-1,CBBC HD
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/373.ts
-#EXTINF:-1,BT Sport 1
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/369.ts
-#EXTINF:-1,BT Sport 2
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/370.ts
-#EXTINF:-1,BT Sport 3
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/371.ts
-#EXTINF:-1,BT Sport ESPN
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/372.ts
-#EXTINF:-1,BET Star
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/368.ts
-#EXTINF:-1,BBC One HD.
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/367.ts
-#EXTINF:-1,BBC News HD
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/366.ts
-#EXTINF:-1,BBC America
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/365.ts
-#EXTINF:-1,Baby Tv
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/364.ts
-#EXTINF:-1,Animal Planet
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/363.ts
-#EXTINF:-1,AMC
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/362.ts
-#EXTINF:-1,Alibi
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/361.ts
-#EXTINF:-1,5USA Plus 1
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/357.ts
-#EXTINF:-1,5Star Plus 1
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/356.ts
-#EXTINF:-1,5 USA Plus 1
-
-http://tv.nemeriptv.com:8000/live/LuGs5Px6HF/TxLdqz8MUR/355.ts
+#EXTINF:-1,beIN SPORTS NEWS
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/201.ts
+#EXTINF:-1,beIN Sports HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/197.ts
+#EXTINF:-1,beIN SPORT 1HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/202.ts
+#EXTINF:-1,beIN SPORT 2HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/203.ts
+#EXTINF:-1,beIN SPORT 3HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/204.ts
+#EXTINF:-1,beIN SPORT 4HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/205.ts
+#EXTINF:-1,beIN SPORT 5HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/206.ts
+#EXTINF:-1,beIN SPORT 6HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/207.ts
+#EXTINF:-1,beIN SPORT 7HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/208.ts
+#EXTINF:-1,beIN SPORT 8HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/209.ts
+#EXTINF:-1,beIN SPORT 9HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/210.ts
+#EXTINF:-1,beIN SPORT 10HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/211.ts
+#EXTINF:-1,Bein Sport 11HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/212.ts
+#EXTINF:-1,Bein Sport 12HD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/213.ts
+#EXTINF:-1,Bein Sports 1 | H256
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/214.ts
+#EXTINF:-1,Bein Sports 2 | H256
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/215.ts
+#EXTINF:-1,Bein Sports 3 | H256
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/216.ts
+#EXTINF:-1,Bein Sports 4 | H256
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/217.ts
+#EXTINF:-1,Bein Sports 5 DM
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/218.ts
+#EXTINF:-1,Bein Sports 6 DM
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/219.ts
+#EXTINF:-1,Bein Sports 7 DM
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/220.ts
+#EXTINF:-1,Bein Sports 8 DM
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/221.ts
+#EXTINF:-1,Bein Sports 9 DM
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/222.ts
+#EXTINF:-1,Bein Sports10 DM
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/223.ts
+#EXTINF:-1,BeinSports_1_SD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/225.ts
+#EXTINF:-1,BeinSports_2_SD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/226.ts
+#EXTINF:-1,BeinSports_3_SD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/227.ts
+#EXTINF:-1,BeinSports_4_SD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/228.ts
+#EXTINF:-1,BeinSports_5_SD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/229.ts
+#EXTINF:-1,BeinSports_6_SD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/230.ts
+#EXTINF:-1,BeinSports_7_SD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/231.ts
+#EXTINF:-1,BeinSports_8_SD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/232.ts
+#EXTINF:-1,BeinSports_9_SD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/233.ts
+#EXTINF:-1,BeinSports_10_SD
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/234.ts
+#EXTINF:-1,beIN Sports TURK 1
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/244.ts
+#EXTINF:-1,beIN Sports TURK 2
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/245.ts
+#EXTINF:-1,beIN Sports TURK 3
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/246.ts
+#EXTINF:-1,beINsports 1 France
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/235.ts
+#EXTINF:-1,beINsports 2 France
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/236.ts
+#EXTINF:-1,beINsports 3 France
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/237.ts
+#EXTINF:-1,BEIN MAX 4 FRANCE
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/238.ts
+#EXTINF:-1,BEIN MAX 5 FRANCE
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/239.ts
+#EXTINF:-1,BEIN MAX 6 FRANCE
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/240.ts
+#EXTINF:-1,BEIN MAX 7 FRANCE
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/241.ts
+#EXTINF:-1,BEIN MAX 8 FRANCE
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/242.ts
+#EXTINF:-1,BEIN MAX 9 FRANCE
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/243.ts
+#EXTINF:-1,beOUT Q 1
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/199.ts
+#EXTINF:-1,beOUT Q 2
+http://tv.nemeriptv.com:8000/live/35rkpnxWWA/xl8T270YC6/200.ts
